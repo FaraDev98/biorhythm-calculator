@@ -1,1 +1,1 @@
-# biorythm-calculatore
+# biorythm-calculator
